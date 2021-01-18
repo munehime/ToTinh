@@ -1,0 +1,10 @@
+D:\Projects\csharp\ToTinh\bin\Debug\ToTinh.exe.config
+D:\Projects\csharp\ToTinh\bin\Debug\ToTinh.exe
+D:\Projects\csharp\ToTinh\bin\Debug\ToTinh.pdb
+D:\Projects\csharp\ToTinh\obj\Debug\ToTinh.csprojAssemblyReference.cache
+D:\Projects\csharp\ToTinh\obj\Debug\ToTinh.ToTinh.resources
+D:\Projects\csharp\ToTinh\obj\Debug\ToTinh.Properties.Resources.resources
+D:\Projects\csharp\ToTinh\obj\Debug\ToTinh.csproj.GenerateResource.cache
+D:\Projects\csharp\ToTinh\obj\Debug\ToTinh.csproj.CoreCompileInputs.cache
+D:\Projects\csharp\ToTinh\obj\Debug\ToTinh.exe
+D:\Projects\csharp\ToTinh\obj\Debug\ToTinh.pdb
